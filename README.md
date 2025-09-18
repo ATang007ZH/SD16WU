@@ -10,6 +10,8 @@ WU是UVC版；WG是串口版；G是串口版
 买个支持SWD的Jlink-OB烧写器就可以玩了。推荐买那个可刷jlink-ob，stlink，daplink 3种固件的仿真下载器。
 
 
+注意事项详见[wiki](https://github.com/ATang007ZH/SD16WU/wiki)
+
 --------------------------------------------
 # SD16WU待解决问题：  
 1，扩展测温范围，  
